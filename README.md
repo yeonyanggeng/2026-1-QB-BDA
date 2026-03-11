@@ -2,4 +2,7 @@
 수정가능 · 불가능
 
 수정가능 : mutable, unhashable 
+list, dict, set
+
 불가능 : immutable, hashable
+int, float, str, tuple
